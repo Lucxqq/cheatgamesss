@@ -1,0 +1,471 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Jeremy1337.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32532 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /Zi /W4 /WX- /diagnostics:column /sdl- /O2 /Ot /GL /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++17 /permissive- /Fo"x64\Release\\" /Fd"x64\Release\vc143.pdb" /external:W4 /Gd /TP /errorReport:prompt Imgui\imgui.cpp Imgui\imgui_draw.cpp Imgui\imgui_impl_dx9.cpp Imgui\imgui_impl_win32.cpp Imgui\imgui_widgets.cpp miau.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+Imgui\imgui_widgets.cpp(883,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Imgui\imgui_widgets.cpp(883,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  miau.cpp
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(85,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(90,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(90,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(90,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(95,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(95,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(95,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(100,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(100,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(100,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(104,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(104,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(104,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(140,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(141,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(142,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(144,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(145,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(146,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(148,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(149,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(150,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(151,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(152,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(153,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(156,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(157,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(158,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(159,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(162,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(163,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(164,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(165,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(168,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(169,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(170,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(171,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(213,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\driver.cpp(30,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\xor.hpp(217,22): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(26,6): message : see declaration of 'hwnd'
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Keybind.h(56,22): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Keybind.h(72,24): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Keybind.h(88,25): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Keybind.h(104,23): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Keybind.h(120,26): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Keybind.h(786,14): warning C4459: declaration of 'aimkeys' hides global declaration
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(44,20): message : see declaration of 'aimkeys'
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Auth.h(18,83): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Auth.h(29,83): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Auth.h(123,29): warning C4244: 'argument': conversion from 'int' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Auth.h(176,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Auth.h(191,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\json.hpp(5381,66): warning C4459: declaration of 'h' hides global declaration
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Print.hpp(13,8): message : see declaration of 'h'
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\json.hpp(8521,50): warning C4459: declaration of 'num' hides global declaration
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Print.hpp(14,5): message : see declaration of 'num'
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\json.hpp(15982,41): warning C4459: declaration of 'h' hides global declaration
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Print.hpp(13,8): message : see declaration of 'h'
+miau.cpp(48,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+miau.cpp(74,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+miau.cpp(144,59): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(62,7): message : see declaration of 'Vector3'
+miau.cpp(145,62): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\miau.h(62,7): message : see declaration of 'Vector3'
+miau.cpp(454,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+miau.cpp(455,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+miau.cpp(456,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+miau.cpp(481,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(482,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(483,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(553,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(554,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(559,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(560,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(564,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(565,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(566,100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+miau.cpp(625,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(625,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(630,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(630,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(630,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(630,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(630,183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(630,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(630,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(630,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(630,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(641,119): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(641,108): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(641,97): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(641,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(641,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(642,119): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(642,108): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(642,97): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(642,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(642,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(643,119): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(643,108): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(643,97): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(643,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(643,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(644,119): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(644,108): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(644,97): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(644,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(644,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(645,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(645,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(674,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(674,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(674,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(674,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(674,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(675,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(675,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(675,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(675,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(675,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(677,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(677,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(677,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(677,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(677,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(678,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(678,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(678,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(678,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(678,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(679,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(679,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(679,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(679,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(679,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(681,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(681,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(681,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(681,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(681,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(682,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(682,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(682,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(682,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(682,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(683,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(683,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(683,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(683,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(683,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(684,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(684,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(684,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(684,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(684,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(687,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(687,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(687,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(687,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(687,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(688,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(688,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(688,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(688,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(688,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(689,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(689,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(689,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(689,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(689,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(691,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(691,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(691,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(691,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(691,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(692,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(692,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(692,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(692,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(692,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(693,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(693,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(693,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(693,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(693,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(694,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(694,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(694,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(694,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(694,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(740,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(740,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(740,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(740,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(740,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(740,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(745,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(745,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(745,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(745,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(745,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(745,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(745,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(749,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(750,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(752,46): warning C4459: declaration of 'h' hides global declaration
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Print.hpp(13,8): message : see declaration of 'h'
+miau.cpp(754,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(754,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(754,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(754,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(756,45): warning C4459: declaration of 'h' hides global declaration
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Print.hpp(13,8): message : see declaration of 'h'
+miau.cpp(769,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+miau.cpp(770,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+miau.cpp(773,137): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(773,126): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(773,115): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(773,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(773,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(773,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(774,137): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(774,126): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(774,115): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(774,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(774,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(774,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(775,145): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(775,134): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(775,123): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(775,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(775,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(775,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(776,145): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(776,134): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(776,123): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(776,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(776,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(776,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(777,145): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(777,134): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(777,123): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(777,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(777,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(777,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(778,145): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(778,134): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(778,123): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(778,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(778,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(778,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(779,153): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(779,142): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(779,131): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(779,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(779,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(779,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(780,153): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(780,142): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(780,131): warning C4305: 'argument': truncation from 'double' to 'float'
+miau.cpp(780,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(780,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(780,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(783,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(783,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(783,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(783,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(784,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(784,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(784,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(784,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(785,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(785,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(785,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(785,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(786,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(786,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(786,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(786,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(787,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(787,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(787,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(787,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(788,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(788,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(788,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(788,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(789,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(789,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(789,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(789,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(790,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(790,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(790,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(790,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(812,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+miau.cpp(812,6): warning C4189: 'len': local variable is initialized but not referenced
+miau.cpp(844,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+miau.cpp(845,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+miau.cpp(849,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(849,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(850,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(850,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(851,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(851,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(852,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(852,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(854,181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(854,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(854,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(854,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(854,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(854,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(903,25): warning C4100: 'in': unreferenced formal parameter
+miau.cpp(1070,1): warning C4102: 'menu_': unreferenced label
+miau.cpp(999,32): warning C4100: 'argv': unreferenced formal parameter
+miau.cpp(999,14): warning C4100: 'argc': unreferenced formal parameter
+miau.cpp(1071,6): warning C4101: 'choice': unreferenced local variable
+miau.cpp(1222,10): warning C4189: 'colors': local variable is initialized but not referenced
+miau.cpp(1270,8): warning C4459: declaration of 'ScreenCenterX' hides global declaration
+miau.cpp(140,7): message : see declaration of 'ScreenCenterX'
+miau.cpp(1270,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1271,8): warning C4459: declaration of 'ScreenCenterY' hides global declaration
+miau.cpp(141,7): message : see declaration of 'ScreenCenterY'
+miau.cpp(1271,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1272,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+miau.cpp(1312,16): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+miau.cpp(1313,16): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+miau.cpp(1331,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1331,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1352,170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1352,152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1352,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1352,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1352,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1352,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1352,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1363,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1363,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1364,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1364,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1365,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1365,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1366,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1366,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1367,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1367,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+miau.cpp(1381,8): warning C4459: declaration of 'fovcircle' hides global declaration
+miau.cpp(52,6): message : see declaration of 'fovcircle'
+miau.cpp(1385,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1386,8): warning C4459: declaration of 'square_fov' hides global declaration
+miau.cpp(63,6): message : see declaration of 'square_fov'
+miau.cpp(1387,8): warning C4459: declaration of 'fovcircle' hides global declaration
+miau.cpp(52,6): message : see declaration of 'fovcircle'
+miau.cpp(1452,20): warning C4018: '<': signed/unsigned mismatch
+miau.cpp(1474,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1474,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1474,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1477,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1480,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1481,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1492,142): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1492,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1492,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1492,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1500,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1500,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1500,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1501,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1501,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1501,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1503,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1503,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1503,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1504,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1504,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1504,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1508,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1508,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1508,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1508,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1509,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1509,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1509,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1509,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1511,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1511,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1511,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1511,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1512,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1512,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1512,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1512,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1514,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1514,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1514,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1514,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1515,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1515,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1515,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1515,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1526,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(1526,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1526,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1533,11): warning C4459: declaration of 'name' hides global declaration
+miau.cpp(83,13): message : see declaration of 'name'
+miau.cpp(1535,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1535,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1543,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(1543,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(1543,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+miau.cpp(1543,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1543,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1562,10): warning C4551: function call missing argument list
+miau.cpp(1563,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1563,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1563,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1567,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1567,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1567,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+miau.cpp(1577,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+miau.cpp(1444,12): warning C4189: 'CurrentWeapon': local variable is initialized but not referenced
+miau.cpp(1382,9): warning C4189: 'fovcirclefilled': local variable is initialized but not referenced
+miau.cpp(1381,8): warning C4189: 'fovcircle': local variable is initialized but not referenced
+miau.cpp(1388,9): warning C4189: 'fovcirclefilled': local variable is initialized but not referenced
+miau.cpp(1387,8): warning C4189: 'fovcircle': local variable is initialized but not referenced
+miau.cpp(1386,8): warning C4189: 'square_fov': local variable is initialized but not referenced
+miau.cpp(1478,9): warning C4189: 'LeftX': local variable is initialized but not referenced
+miau.cpp(1479,9): warning C4189: 'LeftY': local variable is initialized but not referenced
+miau.cpp(1775,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+miau.cpp(1776,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+miau.cpp(1814,42): warning C4459: declaration of 'Message' hides global declaration
+miau.cpp(1733,5): message : see declaration of 'Message'
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\xor.hpp(230,33): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\xor.hpp(228,11): message : while compiling class template member function 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt(void)'
+miau.cpp(1112,8): message : see the first reference to 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt' in 'main'
+miau.cpp(1111,3): message : see reference to class template instantiation 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>' being compiled
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\callspoof.h(134,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\callspoof.h(159): message : see reference to function template instantiation 'unsigned int CallSpoofer::ShellCodeGenerator<Func(__cdecl *),int&&,INPUT*&&,size_t&&>(unsigned int(__cdecl *)(UINT,LPINPUT,int),int &,INPUT *&,size_t &)' being compiled
+          with
+          [
+              Func=UINT (UINT,LPINPUT,int)
+          ]
+miau.cpp(1314,2): message : see reference to function template instantiation 'unsigned int CallSpoofer::SafeCall<UINT (UINT,LPINPUT,int)>::operator ()<int,INPUT*,size_t>(int &&,INPUT *&&,size_t &&)' being compiled
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\ud.h(68,24): warning C4505: 'MouseController::Move_Mouse': unreferenced function with internal linkage has been removed
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Print.hpp(162,20): warning C4505: 'string_to_timet': unreferenced function with internal linkage has been removed
+C:\Users\youlu\OneDrive\Desktop\New folder\CheatGames\Print.hpp(169,16): warning C4505: 'timet_to_tm': unreferenced function with internal linkage has been removed
+miau.cpp(1350,13): warning C4505: 'DrawCircleFilled': unreferenced function with internal linkage has been removed
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2580 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CheatGames.vcxproj -> C:\Users\youlu\OneDrive\Desktop\New folder\x64\Release\CheatGames Public.exe
